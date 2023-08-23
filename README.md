@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbeerVarunSingh
 - 👀 I’m interested in Web development and Blockchain development.
-- 🌱 I’m currently learning Bloockchain development.
+- 🌱 I’m currently learning Blockchain development.
 - 💞️ I’m looking to collaborate on Web development projects / hackathons.
 - 📫 How to reach me ...
 
